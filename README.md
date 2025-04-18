@@ -1,8 +1,6 @@
 # Ideal-Sampling
 # Aim
-```
-Write the objective of the experiment.
-```
+Write a simple Ideal sampling program using Python.
 # Tools required
 # Program
 ```
