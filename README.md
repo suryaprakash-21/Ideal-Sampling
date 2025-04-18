@@ -1,6 +1,6 @@
 # Ideal-Sampling
 # Aim
-Write a simple construction and reconstruction of ideal sampling program using Python.
+Write a Python program for the Construction and Reconctruction of Samples. (Ideal Method)
 # Tools required
 # Program
 ```
