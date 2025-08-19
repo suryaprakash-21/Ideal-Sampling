@@ -1,4 +1,4 @@
-# Ideal-Sampling
+# Ideal Natural and Flat top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
